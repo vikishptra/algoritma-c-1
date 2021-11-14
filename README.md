@@ -1,1 +1,1 @@
-# full-c Algorithm
+# c-1 Algorithm
